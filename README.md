@@ -5,4 +5,4 @@ Fashionphile is an online fashion resale website where consumers can buy and sel
 
 Scrape fashionphile to extract product listings info to help get insight about popular brand, best sellers etc.
 
-Contact author for more!
+Please note that the repo is no longer maintained here. Contact author to learn more about our projects.
